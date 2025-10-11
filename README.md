@@ -2,9 +2,7 @@
 On fera l'analyse , la prédiction, et la visualistion projet (dataset , pris sur kaggle) qui comporte un listing des airbnb de la ville de Pari
 
 ---
-Parfait, voici ton **README** réécrit proprement, sans emojis, sans tournures artificielles et dans un ton naturel — comme un vrai document de projet étudiant.
 
----
 
 # Projet : Analyse du dataset Airbnb Paris
 
