@@ -37,7 +37,8 @@ Le jeu de données date de l’année 2018, plus précisément du 6 décembre.
 
 ### Nombre de variables
 
-18
+18 (Colonnes)
+74329(Lignes)#n'est pas considérée comme variables juste mis ca pour préciser le nombres de ligne du data set après nettoyage
 
 ---
 
